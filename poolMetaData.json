@@ -4,4 +4,5 @@
 "ticker": "EUPL",
 "homepage": "http://adaeuropool.com",
 "adapools": "052612f36564bc3929c9c91aea8e8141"
+"extended": "https://raw.githubusercontent.com/adaeuropool/europoolmetadata/main/europool-meta.json"
 }
